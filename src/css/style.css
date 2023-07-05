@@ -126,7 +126,7 @@ body{
 }
 
 .rodape{
-    background: url(/src/img/fundo-rodape.jpg) center center no-repeat;
+    background-color: rgb(57, 25, 2);
     padding: 35px 30px;
     background-size: cover;
 }
